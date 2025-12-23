@@ -20,4 +20,4 @@ This repository was created just for fun to test some GitHub automation scripts.
 ## Disclaimer
 
 These scripts are for educational and personal experimentation purposes only. Use responsibly and avoid violating GitHub's terms of service.
-Some of these scripts may disrupt services if used incorrectly, you are responsible for how many requests you send servers!!!!!
+Some of these scripts may disrupt services if used incorrectly, you are responsible for how many requests you send to servers!!!!!
